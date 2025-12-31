@@ -1,0 +1,4 @@
+# Create a basic gitignore (example for a general project)
+echo ".DS_Store" >> .gitignore
+echo "node_modules/" >> .gitignore
+echo ".env" >> .gitignore
